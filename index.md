@@ -42,11 +42,11 @@ I believe that whatever its meant to be is meant to be. Therefore, all choices w
 
 # Hobbies
 Here is a list of hobbies that I like to do from most liked to least liked:
-    1. Watching Abbott Elementary
-    2. Reading Comics/Books
-    3. Collecting cute pokemon cards
-    4. Learning about coding during my free time [here's a section link to the programming portion](#programming)
-    5. Gaming (really bad at it tho)
+    1.  Watching Abbott Elementary
+    2.  Reading Comics/Books
+    3.  Collecting cute pokemon cards
+    4.  Learning about coding during my free time [here's a section link to the programming portion](#programming)
+    5.  Gaming (really bad at it tho)
    
    For number 5: here is a list on tech I am trying to learn now and over the summer: 
    - [x] web development
